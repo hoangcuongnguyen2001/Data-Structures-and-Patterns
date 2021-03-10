@@ -1,0 +1,2 @@
+D:\Data Structures and Patterns\HelloWorld\Debug\HelloWorld.exe
+D:\Data Structures and Patterns\HelloWorld\Debug\HelloWorld.pdb
