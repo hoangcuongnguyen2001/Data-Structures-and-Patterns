@@ -1,0 +1,2 @@
+D:\Data Structures and Patterns\CharacterCounter\Debug\CharacterCounter.exe
+D:\Data Structures and Patterns\CharacterCounter\Debug\CharacterCounter.pdb
