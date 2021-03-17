@@ -1,0 +1,2 @@
+D:\Data Structures and Patterns\Polynomials\Debug\Polynomials.exe
+D:\Data Structures and Patterns\Polynomials\Debug\Polynomials.pdb
